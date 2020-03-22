@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     : 2020/3/21 14:07 
-# @Author   : LiZe
-# @File     : file_1.py 
-# @Software : PyCharm
-
 import os
 
 path_1=input('输入路径:')
