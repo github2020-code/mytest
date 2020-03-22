@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time     : 2020/3/20 18:03 
-# @Author   : LiZe
-# @File     : 小说.py 
-# @Software : PyCharm
-
-
 import requests
 from bs4 import BeautifulSoup
 from urllib import parse
